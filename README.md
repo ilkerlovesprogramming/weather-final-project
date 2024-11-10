@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/dashboard-project.git
+   git clone https://github.com/ilkerlovesprogramming/weather-final-project.git
    cd dashboard-project
    ```
 2. Install the dependencies:
@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
    ```bash
    npm start
    ```
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. View it in the browser.
 
 ## Usage
 Once the application is running, you can interact with the dashboard by viewing the temperature chart and navigating through the various sections. The chart is dynamically generated using the QuickChart API.
