@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ilkerlovesprogramming/weather-final-project.git
-   cd dashboard-project
+   cd weather-final-project
    ```
 2. Install the dependencies:
    ```bash
