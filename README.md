@@ -3,7 +3,7 @@
 ## Overview
 This project is a dashboard application developed during Semester 2 at Humber College. The application integrates the QuickChart API to display a temperature line chart with custom point images. It was created as part of our coursework to apply our skills in React.js, UI/UX design, and API integration.
 
-### Check out live version deployed at Vercel [CLICK HERE](https://weather-final-project.vercel.app/)
+### Check out live version deployed at Vercel [CLICK HERE](https://weather-final-project.theilker.com/)
 ### Figma Design (Remix URL): [CLICK HERE](https://www.figma.com/design/jKatsLWXgnzPyvD5s3n9OZ/CPAN144-Weather-App?node-id=2-85&t=8gADczswpfQLeRGL-1)
 
 ## Features
